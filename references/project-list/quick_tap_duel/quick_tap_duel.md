@@ -11,7 +11,7 @@
 | 输入 | 1 个开始按钮、2 个玩家按钮 |
 | 输出 | 2 个玩家 LED               |
 
-完整代码在 `quick_tap_duel_code.md`
+完整代码在 `quick_tap_duel_code.md`，到写代码步骤再读取即可
 
 ## 项目概览
 
