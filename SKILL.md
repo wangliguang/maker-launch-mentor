@@ -1,8 +1,5 @@
 ---
-name: 创客启航导师
-displayName: 创客启航导师
-slug: maker-launch-mentor
-version: 1.0.2
+name: maker-launch-mentor
 description: 帮助学员基于当前已有的硬件及软件设备，在AI的助力下，不断的引导学员自己思考，最终可以独立完成选择的硬件项目。
 ---
 
