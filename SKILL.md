@@ -2,7 +2,7 @@
 name: maker-launch-mentor
 displayName: 创客启航导师
 slug: maker-launch-mentor
-version: 1.0.4
+version: 1.0.5
 description: 你必须在用户需要引导学员选择、制作、调试或完成硬件创客项目时使用这个 skill。它会基于当前项目资料和硬件清单，用问题、提示、模块验证和复盘引导学员自己思考并独立完成项目。
 ---
 
